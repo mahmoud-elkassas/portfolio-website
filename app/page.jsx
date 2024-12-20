@@ -12,7 +12,7 @@ export default function Home() {
           {/* Left Section */}
           <div className="text-center xl:text-left order-2 xl:order-none">
             <h1 className="h1">
-              Hello, I'm <br />
+              Hello,I'm <br />
               <span className="text-accent inline-block overflow-hidden sm:whitespace-nowrap border-accent xl:animate-typing">
                 Mahmoud Elkassas
               </span>
@@ -30,7 +30,11 @@ export default function Home() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Button size="lg" variant="outline" className="uppercase flex items-center gap-2">
+                <Button
+                  size="lg"
+                  variant="outline"
+                  className="uppercase flex items-center gap-2"
+                >
                   <span>Download CV</span>
                   <FiDownload className="text-xl" />
                 </Button>

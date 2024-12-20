@@ -1,6 +1,6 @@
 # Mahmoud Elkassas - Frontend Developer Portfolio
 
-Welcome to my portfolio website! This project showcases my work as a passionate Frontend Developer. Here you can explore the various web applications and projects I've built using modern technologies like React, Next.js, JavaScript, and CSS.
+Welcome to my portfolio website! This project showcases my work as a passionate Frontend Developer. Here you can explore the various web applications and projects I've built using modern technologies like React, Next.js, JavaScript, and Tailwind css.
 
 ## 💻 About
 

@@ -30,7 +30,7 @@ const projects = [
 
     title: "Project 1",
     description:
-      "A full-stack productivity app Sheoxpo is your go-to destination for high-quality, stylish, and comfortable footwear. We offer a wide range of shoes designed to meet the latest fashion trends while ensuring durability and affordability. Our online store provides a seamless shopping experience with easy navigation, secure payments, and fast delivery.",
+      "Sheoxpo – Stylish & Comfortable Footwear Discover high-quality, trendy, and durable shoes at Sheoxpo. Enjoy a seamless shopping experience with secure payments and fast delivery. Step up your style today!",
     stack: [
       { icon: <FaHtml5 />, name: "HTML5" },
       { icon: <FaCss3 />, name: "CSS3" },

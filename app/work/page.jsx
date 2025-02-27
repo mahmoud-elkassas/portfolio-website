@@ -26,6 +26,26 @@ import WorkSliderBtns from "@/components/WorkSliderBtns";
 const projects = [
   {
     num: "01",
+    category: "Shoexpo-Website",
+
+    title: "Project 1",
+    description:
+      "A full-stack productivity app Sheoxpo is your go-to destination for high-quality, stylish, and comfortable footwear. We offer a wide range of shoes designed to meet the latest fashion trends while ensuring durability and affordability. Our online store provides a seamless shopping experience with easy navigation, secure payments, and fast delivery.",
+    stack: [
+      { icon: <FaHtml5 />, name: "HTML5" },
+      { icon: <FaCss3 />, name: "CSS3" },
+      { icon: <FaJs />, name: "JavaScript" },
+      { icon: <FaReact />, name: "React.js" },
+      { icon: <SiNextdotjs />, name: "Next.js" },
+      { icon: <SiTailwindcss />, name: "Tailwind CSS" },
+      { icon: <FaFigma />, name: "Figma" },
+    ],
+    image: "/assets/work/shoexpo.jpeg",
+    live: "https://shoexpo0-01-z2iu.vercel.app/",
+    github: "https://github.com/mahmoud-elkassas/Shoexpo0.01",
+  },
+  {
+    num: "02",
     category: "Notion-Clone",
 
     title: "Project 1",
@@ -45,7 +65,7 @@ const projects = [
     github: "https://github.com/mahmoud-elkassas/Notion-Clone",
   },
   {
-    num: "02",
+    num: "03",
     category: "Ecommerce Website",
     title: "Project 2",
     description:
@@ -61,7 +81,7 @@ const projects = [
     github: "https://github.com/mahmoud-elkassas/Ecommerce-website",
   },
   {
-    num: "03",
+    num: "04",
     category: "Restaurant Website",
     title: "Project 3",
     description:
@@ -79,7 +99,7 @@ const projects = [
       "https://github.com/mahmoud-elkassas/Restaurant-Website?tab=readme-ov-file",
   },
   {
-    num: "04",
+    num: "05",
     category: "Car Marketplace",
     title: "Project 4",
     description:
@@ -97,7 +117,7 @@ const projects = [
     github: "https://github.com/mahmoud-elkassas/CarMarketeplace",
   },
   {
-    num: "05",
+    num: "06",
     category: "Amazon-Clone",
     title: "Project 5",
     description:
@@ -116,7 +136,7 @@ const projects = [
     github: "https://github.com/mahmoud-elkassas/Amazon-Clone",
   },
   {
-    num: "06",
+    num: "07",
     category: "Airbnb-Clone",
     title: "Project 6",
     description:

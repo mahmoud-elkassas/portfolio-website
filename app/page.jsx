@@ -13,7 +13,7 @@ export default function Home() {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <h1 className="h1">
               Hello,I'm <br />
-              <span className="text-accent inline-block overflow-hidden sm:whitespace-nowrap border-accent xl:animate-typing">
+              <span className="text-accent inline-block overflow-hidden  sm:whitespace-nowrap border-accent xl:animate-typing">
                 Mahmoud Elkassas
               </span>
             </h1>

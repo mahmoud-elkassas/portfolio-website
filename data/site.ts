@@ -14,7 +14,7 @@ export const siteConfig = {
   leetcode: "https://leetcode.com/u/mahmoud-elkassas/",
   upwork: "https://www.upwork.com/freelancers/~0163fa22e29d126c62",
   cvUrl:
-    "https://drive.google.com/file/d/1dI14YR1pVtFp-x5i6oe2_PYa3ErhzSS5/view",
+    "https://drive.google.com/file/d/1dz6BzRvM2S2-xCZ7Rf5s6OBzp4Jeta88/view?usp=sharing",
 } as const
 
 export type SiteConfig = typeof siteConfig
